@@ -1,0 +1,61 @@
+{
+  "project": {
+    "name": "sd-0x-block9-project-zoo-functions",
+    "description": "Projeto de ES6 e Higher Order Functions",
+    "enabled": true,
+    "deadline": "YYYY-MM-DD 14:10:00",
+    "requirements": [{
+      "description": "Implemente a função animalsByIds",
+      "enabled": true,
+      "bonus": false
+    }, {
+      "description": "Implemente a função animalsOlderThan",
+      "enabled": true,
+      "bonus": false
+    }, {
+      "description": "Implemente a função employeeByName",
+      "enabled": true,
+      "bonus": false
+    }, {
+      "description": "Implemente a função createEmployee",
+      "enabled": true,
+      "bonus": false
+    }, {
+      "description": "Implemente a função isManager",
+      "enabled": true,
+      "bonus": false
+    }, {
+      "description": "Implemente a função addEmployee",
+      "enabled": true,
+      "bonus": false
+    }, {
+      "description": "Implemente a função animalCount",
+      "enabled": true,
+      "bonus": false
+    }, {
+      "description": "Implemente a função entryCalculator",
+      "enabled": true,
+      "bonus": false
+    }, {
+      "description": "Implemente a função animalMap",
+      "enabled": true,
+      "bonus": false
+    }, {
+      "description": "Implemente a função schedule",
+      "enabled": true,
+      "bonus": false
+    }, {
+      "description": "Implemente a função oldestFromFirstSpecies",
+      "enabled": true,
+      "bonus": false
+    }, {
+      "description": "Implemente a função increasePrices",
+      "enabled": true,
+      "bonus": false
+    }, {
+      "description": "Implemente a função employeeCoverage",
+      "enabled": true,
+      "bonus": false
+    }]
+  }
+}

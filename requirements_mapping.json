@@ -1,0 +1,15 @@
+{
+  "animalsByIds": 0,
+  "animalsOlderThan": 0,
+  "employeeByName": 0,
+  "createEmployee": 0,
+  "isManager": 0,
+  "addEmployee": 0,
+  "animalCount": 0,
+  "entryCalculator": 0,
+  "animalMap": 0,
+  "schedule": 0,
+  "oldestFromFirstSpecies": 0,
+  "increasePrices": 0,
+  "employeeCoverage": 0
+}
